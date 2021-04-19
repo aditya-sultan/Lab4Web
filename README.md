@@ -4,5 +4,7 @@
 
 # Langkah-langkah praktikum
 # 1. Layout home
-- # input
 - source code dapat dilihat [disini](https://github.com/aditya-sultan/Lab4Web/blob/master/lab4_layout/home.html)
+- Adapun ini adalah tampilan menu
+- ![](https://github.com/aditya-sultan/Lab4Web/blob/master/Screenshoot/Capture(7).PNG)
+- tapi, ini belum di CSS kan. Untuk CSS dapat dilihat pada bagian [berikut](https://github.com/aditya-sultan/Lab4Web/blob/master/lab4_layout/style.css)

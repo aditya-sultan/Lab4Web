@@ -34,5 +34,5 @@ Halaman web sering kali dibagi menjadi header, menu, konten, dan footer: Ada ban
 
 
 Demikianlah untuk praktikum kali ini. Cukup sekian dari saya.
-      Sultan Aditia
-      dari kelas: T.I.19.A.1
+          Sultan Aditia
+          dari kelas: T.I.19.A.1

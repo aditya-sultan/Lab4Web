@@ -1,0 +1,50 @@
+<div class="dropdown">
+    <button class="mainmenubtn">Tugas Adit</button>
+    <div class="dropdown-child">
+        <a href="file://D:/Lab3Web/Lab2_css_dasar.html">Css Internal</a>
+        <a href="file://D:/Lab3Web/lab3_form.html">Pendaftaran Pembaca Buku-Buku Aditya Lucis Caelum</a>
+        <a href="file://D:/Lab3Web/lab3_list.html">List Jurusan</a>
+        <a href="file://D:/Lab3Web/lab3_tabel.html">Tabel Fakultas Teknik UPB</a>
+    </div>
+</div>
+
+<div class="dropdown">
+    <button class="mainmenubtn">Inspiration Biodata</button>
+    <div class="dropdown-child">
+        <a href="https://en.wikipedia.org/wiki/J._R._R._Tolkien">Biodata J.R.R. Tolkien</a>
+        <a href="https://en.wikipedia.org/wiki/Rick_Riordan">Biodata Rick Riordan</a>
+        <a href="https://en.wikipedia.org/wiki/J._K._Rowling">Biodata J.K. Rowling</a>
+        <a href="https://en.wikipedia.org/wiki/Victoria_Aveyard">Biodata Victoria Aveyard</a>
+    </div>
+</div>
+<style>
+.mainmenubtn {
+    background-color: rgb(87, 2, 2);
+    columns: white;
+    border: none;
+    cursor: pointer;
+    padding: 20px;
+    margin-top: 20px;
+}
+.mainmenubtn:hover {
+    background-color: rgb(212, 175, 10);
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+.dropdown-child {
+    display: block;
+    background-color: rgb(24, 2, 85);
+    min-width: 200px;
+}
+.dropdown-child a {
+    color: rgb(248, 248, 248);
+    padding: 20px;
+    text-decoration: none;
+    display: block;
+}
+.dropdown:hover .dropdown-child {
+    display: block;
+}
+</style>
